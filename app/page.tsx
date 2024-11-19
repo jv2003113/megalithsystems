@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Brain, Cpu, Globe, Mail, MessageSquare } from 'lucide-react'
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Cpu, Globe, Mail, MessageSquare } from 'lucide-react'
 import Image from 'next/image'
 
 export default function Home() {
